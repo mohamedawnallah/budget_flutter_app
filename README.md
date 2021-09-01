@@ -1,4 +1,4 @@
-# flutter_budget_ui
+# Weekly Budget Flutter App
 
 A new Flutter project.
 
